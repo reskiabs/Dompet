@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24.861" height="26.642" viewBox="0 0 24.861 26.642">
+  <defs>
+    <radialGradient id="radial-gradient" cx="0.451" cy="0.673" r="1.239" gradientTransform="matrix(0.448, -0.894, 0.971, 0.486, -0.405, 0.75)" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#6dd400"/>
+      <stop offset="1" stop-color="#376a00"/>
+    </radialGradient>
+  </defs>
+  <path id="shield-outline" d="M28.182,7.5A40.645,40.645,0,0,1,15.805,3.375,40.645,40.645,0,0,1,3.429,7.5C2.46,23.941,14.884,29.619,15.805,30.017c.921-.4,13.345-6.076,12.377-22.52Z" transform="translate(-3.375 -3.375)" fill="url(#radial-gradient)"/>
+</svg>

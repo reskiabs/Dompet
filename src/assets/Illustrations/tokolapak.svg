@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="205" height="30" viewBox="0 0 205 30">
+  <g id="Group_9185" data-name="Group 9185" transform="translate(-82 -396)">
+    <text id="tokolapak" transform="translate(120 419)" fill="#fff836" font-size="30" font-family="Helvetica"><tspan x="0" y="0">tokolapak</tspan></text>
+    <g id="Group_9181" data-name="Group 9181" transform="translate(-7 272)">
+      <g id="Group_9177" data-name="Group 9177">
+        <circle id="Ellipse_140" data-name="Ellipse 140" cx="3" cy="3" r="3" transform="translate(264 131)" fill="#fff836"/>
+        <circle id="Ellipse_141" data-name="Ellipse 141" cx="3" cy="3" r="3" transform="translate(264 141)" fill="#fff836"/>
+      </g>
+      <g id="Group_9180" data-name="Group 9180" transform="translate(0 1)" opacity="0.8">
+        <circle id="Ellipse_140-2" data-name="Ellipse 140" cx="2.5" cy="2.5" r="2.5" transform="translate(273 131)" fill="#fff836"/>
+        <circle id="Ellipse_141-2" data-name="Ellipse 141" cx="2.5" cy="2.5" r="2.5" transform="translate(273 141)" fill="#fff836"/>
+      </g>
+      <g id="Group_9179" data-name="Group 9179" transform="translate(0 1)" opacity="0.6">
+        <circle id="Ellipse_140-3" data-name="Ellipse 140" cx="2" cy="2" r="2" transform="translate(282 131)" fill="#fff836"/>
+        <circle id="Ellipse_141-3" data-name="Ellipse 141" cx="2" cy="2" r="2" transform="translate(282 141)" fill="#fff836"/>
+      </g>
+      <g id="Group_9178" data-name="Group 9178" transform="translate(0 2)" opacity="0.4">
+        <circle id="Ellipse_140-4" data-name="Ellipse 140" cx="1.5" cy="1.5" r="1.5" transform="translate(291 131)" fill="#fff836"/>
+        <circle id="Ellipse_141-4" data-name="Ellipse 141" cx="1.5" cy="1.5" r="1.5" transform="translate(291 141)" fill="#fff836"/>
+      </g>
+    </g>
+    <g id="Group_9182" data-name="Group 9182" transform="translate(82 403)">
+      <g id="Group_9177-2" data-name="Group 9177" transform="translate(24)">
+        <circle id="Ellipse_140-5" data-name="Ellipse 140" cx="3" cy="3" r="3" fill="#fff836"/>
+        <circle id="Ellipse_141-5" data-name="Ellipse 141" cx="3" cy="3" r="3" transform="translate(0 10)" fill="#fff836"/>
+      </g>
+      <g id="Group_9180-2" data-name="Group 9180" transform="translate(16 1)" opacity="0.8">
+        <circle id="Ellipse_140-6" data-name="Ellipse 140" cx="2.5" cy="2.5" r="2.5" fill="#fff836"/>
+        <circle id="Ellipse_141-6" data-name="Ellipse 141" cx="2.5" cy="2.5" r="2.5" transform="translate(0 10)" fill="#fff836"/>
+      </g>
+      <g id="Group_9179-2" data-name="Group 9179" transform="translate(8 1)" opacity="0.6">
+        <circle id="Ellipse_140-7" data-name="Ellipse 140" cx="2" cy="2" r="2" fill="#fff836"/>
+        <circle id="Ellipse_141-7" data-name="Ellipse 141" cx="2" cy="2" r="2" transform="translate(0 10)" fill="#fff836"/>
+      </g>
+      <g id="Group_9178-2" data-name="Group 9178" transform="translate(0 2)" opacity="0.4">
+        <circle id="Ellipse_140-8" data-name="Ellipse 140" cx="1.5" cy="1.5" r="1.5" fill="#fff836"/>
+        <circle id="Ellipse_141-8" data-name="Ellipse 141" cx="1.5" cy="1.5" r="1.5" transform="translate(0 10)" fill="#fff836"/>
+      </g>
+    </g>
+  </g>
+</svg>

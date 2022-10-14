@@ -1,0 +1,26 @@
+<svg id="Group_3779" data-name="Group 3779" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="27.325" height="25.503" viewBox="0 0 27.325 25.503">
+  <defs>
+    <linearGradient id="linear-gradient" x1="1.043" y1="0.832" x2="0.825" y2="0.927" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#847e79"/>
+      <stop offset="1" stop-color="#423f3d"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="1.104" y1="-0.261" x2="0.5" y2="0.775" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff2cd"/>
+      <stop offset="1" stop-color="#e0a80e" stop-opacity="0.988"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="1.104" y1="-0.261" x2="0.5" y2="0.775" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff2cd"/>
+      <stop offset="1" stop-color="#ffcf4a" stop-opacity="0.988"/>
+    </linearGradient>
+  </defs>
+  <g id="iphone-x">
+    <rect id="bound" width="25.503" height="25.503" fill="none"/>
+    <path id="Combined-Shape" d="M1.328,0A1.328,1.328,0,0,0,0,1.328V18.862A1.328,1.328,0,0,0,1.328,20.19h8.5a1.328,1.328,0,0,0,1.328-1.328V1.328A1.328,1.328,0,0,0,9.829,0Z" transform="translate(7.173 2.657)" fill="url(#linear-gradient)"/>
+    <path id="Combined-Shape-2" data-name="Combined-Shape" d="M11.423,23.379h-8.5A2.926,2.926,0,0,1,0,20.456V2.922A2.926,2.926,0,0,1,2.922,0h8.5a2.926,2.926,0,0,1,2.922,2.922V20.456A2.926,2.926,0,0,1,11.423,23.379ZM2.922,1.594A1.33,1.33,0,0,0,1.594,2.922V20.456a1.33,1.33,0,0,0,1.329,1.328h8.5a1.33,1.33,0,0,0,1.329-1.328V2.922a1.33,1.33,0,0,0-1.329-1.329H10.361V1.328A.532.532,0,0,0,9.83.8H4.516a.532.532,0,0,0-.531.531v.266ZM9.83,2.922H4.516a.532.532,0,0,1-.531-.531v-.8h6.376v.8A.532.532,0,0,1,9.83,2.922Z" transform="translate(5.579 1.063)"/>
+  </g>
+  <g id="Group_8203" data-name="Group 8203" transform="translate(11.841 10.019)">
+    <circle id="Oval" cx="7.287" cy="7.287" r="7.287" fill="url(#linear-gradient-2)"/>
+    <circle id="Oval-2" data-name="Oval" cx="7.287" cy="7.287" r="7.287" transform="translate(0.911)" fill="url(#linear-gradient-3)"/>
+    <text id="Rp" transform="translate(3.643 8.188)" fill="#9e7404" font-size="6" font-family="Helvetica"><tspan x="0" y="0">Rp</tspan></text>
+  </g>
+</svg>

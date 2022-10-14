@@ -1,0 +1,11 @@
+<svg id="Group_8950" data-name="Group 8950" xmlns="http://www.w3.org/2000/svg" width="29.5" height="28" viewBox="0 0 29.5 28">
+  <g id="Group_3779" data-name="Group 3779">
+    <g id="iphone-x">
+      <rect id="bound" width="28" height="28" fill="#fff"/>
+      <path id="Combined-Shape" d="M1.458,0A1.458,1.458,0,0,0,0,1.458v19.25a1.458,1.458,0,0,0,1.458,1.458h9.333a1.458,1.458,0,0,0,1.458-1.458V1.458A1.458,1.458,0,0,0,10.792,0Z" transform="translate(7.875 2.917)" fill="rgba(238,75,75,0.41)"/>
+      <path id="Combined-Shape-2" data-name="Combined-Shape" d="M12.542,25.667H3.208A3.212,3.212,0,0,1,0,22.459V3.208A3.212,3.212,0,0,1,3.208,0h9.333A3.212,3.212,0,0,1,15.75,3.208v19.25A3.212,3.212,0,0,1,12.542,25.667ZM3.208,1.75A1.461,1.461,0,0,0,1.75,3.208v19.25a1.46,1.46,0,0,0,1.459,1.458h9.333A1.46,1.46,0,0,0,14,22.459V3.208A1.461,1.461,0,0,0,12.542,1.75H11.375V1.458a.584.584,0,0,0-.583-.583H4.958a.584.584,0,0,0-.583.583V1.75Zm7.583,1.459H4.958a.584.584,0,0,1-.583-.583V1.75h7v.876A.584.584,0,0,1,10.792,3.208Z" transform="translate(6.125 1.167)" fill="#ee4b4b"/>
+    </g>
+    <path id="Oval" d="M8,0A8,8,0,1,1,0,8,8,8,0,0,1,8,0Z" transform="translate(13 11)" fill="#ee4b4b" stroke="#fff" stroke-width="1"/>
+    <text id="Rp" transform="translate(16 21)" fill="#fff" font-size="8" font-family="Helvetica"><tspan x="0" y="0">Rp</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="402.001" height="188.001" viewBox="0 0 402.001 188.001">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#916bff"/>
+      <stop offset="1" stop-color="#5168ff"/>
+    </linearGradient>
+    <filter id="Combined_Shape" x="0" y="0" width="402.001" height="188.001" filterUnits="userSpaceOnUse">
+      <feOffset dy="16" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feFlood flood-color="#0a1646" flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_9105" data-name="Group 9105" transform="translate(5.328 -628.79)">
+    <g transform="matrix(1, 0, 0, 1, -5.33, 628.79)" filter="url(#Combined_Shape)">
+      <path id="Combined_Shape-2" data-name="Combined Shape" d="M89.853,140H10A10.012,10.012,0,0,1,0,130V10A10.011,10.011,0,0,1,10,0H88.771A11.48,11.48,0,0,0,92.58,8.481,13.461,13.461,0,0,0,101.761,12c7.164,0,12.992-5.383,12.992-12H344a10.011,10.011,0,0,1,10,10V130a10.012,10.012,0,0,1-10,10H115.834a11.481,11.481,0,0,0-3.809-8.482A13.46,13.46,0,0,0,102.844,128c-7.163,0-12.991,5.383-12.991,12Z" transform="translate(24 8)" fill="url(#linear-gradient)"/>
+    </g>
+    <g id="Diviver_2" data-name="Diviver / 2" transform="translate(121.516 649.79) rotate(90)">
+      <path id="Line_4" data-name="Line 4" d="M113.231,1.082V0H115V1.082Zm-5.662,0V0h3.185V1.082Zm-5.662,0V0h3.185V1.082Zm-5.662,0V0h3.185V1.082Zm-5.662,0V0h3.185V1.082Zm-5.661,0V0h3.185V1.082Zm-5.662,0V0h3.185V1.082Zm-5.662,0V0h3.185V1.082Zm-5.662,0V0h3.185V1.082Zm-5.661,0V0h3.185V1.082Zm-5.662,0V0H59.8V1.082Zm-5.662,0V0h3.185V1.082Zm-5.662,0V0h3.185V1.082Zm-5.662,0V0h3.185V1.082Zm-5.661,0V0h3.185V1.082Zm-5.662,0V0h3.185V1.082Zm-5.662,0V0h3.185V1.082Zm-5.662,0V0h3.185V1.082Zm-5.661,0V0h3.185V1.082Zm-5.662,0V0H8.846V1.082ZM0,1.082V0H3.185V1.082Z" fill="#fff"/>
+    </g>
+    <rect id="Rectangle" width="220.844" height="24" rx="5" transform="translate(134.507 736.79)" fill="#fff"/>
+    <rect id="Rectangle-2" data-name="Rectangle" width="103.927" height="24" rx="5" transform="translate(251.425 736.79)" fill="#724df7"/>
+    <text id="Get_the_code" data-name="Get the code" transform="translate(305.545 753.79)" fill="#fff" font-size="12" font-family="Montserrat-Regular, Montserrat"><tspan x="-38.754" y="0">Get the code</tspan></text>
+    <text id="Code:" transform="translate(148.491 752.79)" fill="#837ea7" font-size="12" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="0">Code:</tspan></text>
+    <text id="ABCDEF" transform="translate(189.451 753.79)" fill="#272459" font-size="12" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="0">ABCDEF</tspan></text>
+    <text id="Expiry_date:" data-name="Expiry date:" transform="translate(158.564 691.79)" fill="#fff" font-size="12" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="0">Expiry date:</tspan></text>
+    <text id="_2020_10_08_-_20:00" data-name="2020/10/08 - 20:00" transform="translate(138.456 713.79)" fill="#fff" font-size="12" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="0">2021/10/08 - 20:00</tspan></text>
+    <text id="Pinnacle_of_technolo" data-name="Pinnacle of technolo" transform="translate(145.735 667.79)" fill="#fff" font-size="14" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="0">Pinnacle of technology goods</tspan></text>
+    <text id="_6_" data-name="6%" transform="translate(83.596 714.79)" fill="#fff" font-size="28" font-family="Montserrat-Regular, Montserrat"><tspan x="-19.852" y="0">6%</tspan></text>
+    <text id="Discount_up_to" data-name="Discount up to" transform="translate(49.061 694.79) rotate(-90)" fill="#fff" font-size="12" font-family="Montserrat-Regular, Montserrat"><tspan x="-46.032" y="0">Discount up to </tspan></text>
+    <g id="Icons_account" data-name="Icons / account" transform="translate(134.507 681.79)">
+      <g id="clock_1_" data-name="clock (1)">
+        <path id="Oval" d="M0,6A6.263,6.263,0,0,1,6.5,0a6.263,6.263,0,0,1,6.5,6,6.263,6.263,0,0,1-6.5,6A6.263,6.263,0,0,1,0,6Z" fill="#fff"/>
+        <path id="Path" d="M.541,0a.528.528,0,0,1,.538.442l0,.058V3H3.789a.528.528,0,0,1,.538.442l0,.058a.516.516,0,0,1-.478.5L3.789,4H.541A.528.528,0,0,1,0,3.558L0,3.5V.5A.522.522,0,0,1,.541,0Z" transform="translate(5.954 2.5)" fill="#fff"/>
+      </g>
+      <rect id="Rectangle-3" data-name="Rectangle" width="12.991" height="12" fill="none"/>
+    </g>
+    <path id="Line_2" data-name="Line 2" d="M.5,0V34" transform="translate(44.154 740.79)" fill="none" stroke="#fff" stroke-linecap="square" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="4"/>
+  </g>
+</svg>
